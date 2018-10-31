@@ -2,27 +2,27 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="" key="selection"/>
+		<item value="Expir" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="expir"/>
+			<item value="usershippingde"/>
+			<item value="setdefaultp"/>
+			<item value="defaultshi"/>
+			<item value="setdefaults"/>
+			<item value="defaultUserPaymentId"/>
+			<item value="userPaymentL"/>
+			<item value="setDefault"/>
+			<item value="billi"/>
+			<item value="paym"/>
+			<item value="paymen"/>
+			<item value="wood"/>
 			<item value="J"/>
 			<item value="logo"/>
 			<item value="Le&apos;s"/>
-			<item value="Le"/>
-			<item value="inacti"/>
-			<item value="bookshelf"/>
-			<item value="Total"/>
-			<item value="grand"/>
-			<item value="cartTotal"/>
-			<item value="grandTotal"/>
-			<item value="grandTo"/>
-			<item value="missing"/>
-			<item value="states"/>
-			<item value="userShipping"/>
-			<item value="shippingAddress"/>
 		</list>
 		<list key="replacehistory">
 			<item value="grandTotal"/>
